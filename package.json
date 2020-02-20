@@ -1,0 +1,48 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonoldiz/react-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Bonoldiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bonoldiz/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Bonoldiz/react-boilerplate#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.0.6",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "copy-webpack-plugin": "^5.1.1",
+    "css-loader": "^3.4.2",
+    "file-loader": "^5.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "json-loader": "^0.5.7",
+    "node-sass": "^4.13.1",
+    "raw-loader": "^4.0.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.3",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.2",
+    "webpack-node-externals": "^1.7.2",
+    "write-file-webpack-plugin": "^4.5.1"
+  }
+}
