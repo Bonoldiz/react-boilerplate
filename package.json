@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Bonoldiz/react-boilerplate#readme",
   "dependencies": {
     "@popperjs/core": "^2.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "react": "^16.12.0",
